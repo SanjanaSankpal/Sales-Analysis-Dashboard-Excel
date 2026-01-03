@@ -28,71 +28,74 @@ The dashboard transforms raw sales data into actionable business insights throug
 ---
 
 ## ⚙️ Key Features
-- 📌 1. KPI Cards
-     -KPI cards provide a quick snapshot of business performance:
+- **📌 1. KPI Cards** - KPI cards provide a quick snapshot of business performance:
+- Total Sales
+- Average Monthly Sales
+- Top Performing Region
+- Top Product Category    
 
-        - Total Sales  
-        - Average Monthly Sales  
-        - Top Performing Region  
-        - Top Product Category  
+- **🎛 2. Interactive Slicers** - Dynamic filtering is enabled using slicers for:
+- Month
+- Region
+- Product Category
+ ✔ All slicers are connected to relevant Pivot Tables and charts to ensure consistent filtering.
 
-- 🎛 2. Interactive Slicers
-     -Dynamic filtering is enabled using slicers for: 
+- **📊 3. Pivot-Based Visualizations** - The dashboard includes the following charts:
+  - Line Chart – Monthly Sales Trend
+  - Bar Chart – Sales by Product Category & Subcategory
+  - Column Chart – Total Sales by Region
+    Each visualization is designed for clarity, readability, and business relevance.
+  
+- **🔁 4. VBA Automation – Reset Filters Button** - A Reset Filters button was created using a VBA macro to:
+  - Clear all slicer selections
+  - Refresh all Pivot Tables  
+    This improves usability by allowing users to instantly return to the default dashboard view.
 
-        - Month  
-        - Region  
-        - Product Category  
-
-- **Pivot-Based Visualizations**:
-  - Monthly Sales Trend (Line Chart)  
-  - Sales by Product Category & Subcategory (Bar Chart)  
-  - Total Sales by Region (Column Chart)  
-
-- **Reset Filter Button using VBA Macro**  
-  A macro-enabled button that clears all slicer selections at once, allowing users to quickly return to the default dashboard view and improving overall usability.
-
-  ⚠️ **Note:** Please **enable macros** when opening the Excel file to use this functionality.
+ ⚠️ **Note:** Please **enable macros** when opening the Excel file to use this functionality.
 
 ---
 
 ## 📈 Insights Enabled
-- Identify **top-performing regions and product categories**  
-- Analyze **monthly sales trends and seasonal patterns**  
-- Compare **regional contributions** to total sales  
-- Drill down into **category and subcategory performance**  
+- Identified high-performing regions and product categories 
+- Analyzed monthly sales trends and seasonal patterns 
+- Compared regional sales contribution to overall revenue 
+- Evaluated category and subcategory sales performance  
 
 ---
 
 ## 📂 Files Included
-- **Sales_Performance_Dashboard.xlsm**  
-  Macro-enabled Excel dashboard containing Pivot Tables, Pivot Charts, slicers, KPI cards, and VBA automation  
-  *(⚠️ Enable macros for full functionality)*
+- **Sales_Analysis_Dashboard.xlsm**  
+  Macro-enabled Excel dashboard with Pivot Tables, Pivot Charts, slicers, KPI cards, and VBA automation  
 
 - **Dashboard_Preview.png**  
-  Screenshot preview of the final dashboard  
-
+  Image preview of the completed Sales Analysis Dashboard
+  
 - **README.md**  
-  Project documentation detailing objectives, features, tools used, and dashboard functionality  
+  Project documentation outlining objectives, features, tools used, and dashboard overview
 
 ---
 
-## 🎯 Project Objective
-- Demonstrate strong **Excel dashboarding and reporting skills**  
-- Showcase practical implementation of **Pivot Tables, slicers, and VBA automation**  
-- Build a **business-ready sales reporting solution** using Microsoft Excel  
+## 🚀 Future Scope
+- Profitability & Margin Analysis
+Add Cost, Profit, and Profit Margin KPIs to evaluate not just sales performance but overall business profitability.
+ 
+- Target vs Actual Performance Tracking
+Introduce sales targets and variance analysis to highlight underperforming and overperforming regions or categories.
+  
+- Customer & Segment Insights
+Analyze customer behavior by identifying repeat customers, high-value segments, and regional buying patterns
 
----
+- Automated Data Refresh with Power Query
+Enable automatic data loading and transformation from external data sources for scalable, real-world usage.
 
-## 🚀 Future Enhancements
-- Add advanced KPIs such as **Month-over-Month (MoM)** and **Year-over-Year (YoY)** growth  
-- Optimize dashboard performance for **larger datasets**  
-- Recreate the dashboard using **Power BI** for comparison and scalability  
+- Migration to Power BI for Enterprise Scalability
+Rebuild the dashboard in Power BI to support real-time updates, cloud sharing, and advanced analytics.
 
 ---
 
 ## 👤 Author
-**Shradha Pol**  
-Aspiring Data Analyst  
+**Sanjana Sankpal**  
+Entry-Level Data Analyst | Excel • SQL • Power BI  
 
-**Skills:**  
-Excel | SQL | Power BI | Data Visualization  
+**Technical Skills:**  
+Microsoft Excel • Pivot Tables • Pivot Charts • Slicers • Dashboards • Data Analysis • Data Visualization
