@@ -28,25 +28,25 @@ The dashboard transforms raw sales data into actionable business insights throug
 ---
 
 ## ⚙️ Key Features
-- **📌 1. KPI Cards** - KPI cards provide a quick snapshot of business performance:
+**📌 1. KPI Cards** - KPI cards provide a quick snapshot of business performance:
 - Total Sales
 - Average Monthly Sales
 - Top Performing Region
 - Top Product Category    
 
-- **🎛 2. Interactive Slicers** - Dynamic filtering is enabled using slicers for:
+**🎛 2. Interactive Slicers** - Dynamic filtering is enabled using slicers for:
 - Month
 - Region
 - Product Category
  ✔ All slicers are connected to relevant Pivot Tables and charts to ensure consistent filtering.
 
-- **📊 3. Pivot-Based Visualizations** - The dashboard includes the following charts:
+**📊 3. Pivot-Based Visualizations** - The dashboard includes the following charts:
   - Line Chart – Monthly Sales Trend
   - Bar Chart – Sales by Product Category & Subcategory
   - Column Chart – Total Sales by Region
     Each visualization is designed for clarity, readability, and business relevance.
   
-- **🔁 4. VBA Automation – Reset Filters Button** - A Reset Filters button was created using a VBA macro to:
+**🔁 4. VBA Automation – Reset Filters Button** - A Reset Filters button was created using a VBA macro to:
   - Clear all slicer selections
   - Refresh all Pivot Tables  
     This improves usability by allowing users to instantly return to the default dashboard view.
