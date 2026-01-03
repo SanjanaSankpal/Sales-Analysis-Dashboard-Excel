@@ -1,9 +1,9 @@
 📊 Sales Performance Dashboard – Excel (Macro-Enabled)
 📌 Project Overview
 
-This project showcases an interactive Sales Performance Dashboard built using Microsoft Excel to analyze sales data for the year 2023.
+Built an interactive Sales Performance Dashboard using Microsoft Excel to analyze sales data for the year 2023.
 
-The dashboard transforms raw sales data into actionable business insights through:
+Transformed raw sales data into actionable business insights using:
 
 Dynamic KPI cards
 
@@ -13,7 +13,7 @@ Interactive slicers
 
 VBA automation
 
-This enables effective data-driven decision-making.
+Designed to support data-driven business decision-making.
 
 🎯 Project Objective
 
@@ -31,7 +31,7 @@ Demonstrate strong Excel dashboarding and reporting skills
 
 Source File: Raw Data.xlsx
 
-Dataset includes:
+Dataset Fields:
 
 Order Date / Month
 
@@ -62,8 +62,6 @@ VBA (Macros)
 ⚙️ Key Features
 📌 1. KPI Cards
 
-KPI cards provide a quick snapshot of business performance:
-
 Total Sales
 
 Average Monthly Sales
@@ -72,9 +70,11 @@ Top Performing Region
 
 Top Product Category
 
+Provides a quick snapshot of overall business performance.
+
 🎛 2. Interactive Slicers
 
-Dynamic filtering is enabled using slicers for:
+Dynamic filtering enabled using slicers for:
 
 Month
 
@@ -82,7 +82,7 @@ Region
 
 Product Category
 
-✔ All slicers are connected to relevant Pivot Tables and charts to ensure consistent filtering.
+✔ All slicers are connected to relevant Pivot Tables and charts to ensure consistent filtering across the dashboard.
 
 📊 3. Pivot-Based Visualizations
 
@@ -136,11 +136,15 @@ Project documentation describing objectives, features, tools used, and dashboard
 
 🚀 Future Enhancements
 
-Add advanced KPIs such as Month-over-Month (MoM) and Year-over-Year (YoY) growth
+Add Profit, Cost, and Margin analysis for deeper financial insights
 
-Optimize dashboard performance for larger datasets
+Introduce Target vs Actual performance tracking
 
-Recreate the dashboard using Power BI for scalability and comparison
+Implement customer and segment-level analysis
+
+Automate data refresh using Power Query
+
+Rebuild the dashboard in Power BI for enterprise scalability
 
 👤 Author
 
