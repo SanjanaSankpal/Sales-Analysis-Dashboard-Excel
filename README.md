@@ -28,7 +28,7 @@ The dashboard transforms raw sales data into actionable business insights throug
 ---
 
 ## ⚙️ Key Features
--📌 1. KPI Cards
+- 📌 1. KPI Cards
      -KPI cards provide a quick snapshot of business performance:
 
         - Total Sales  
