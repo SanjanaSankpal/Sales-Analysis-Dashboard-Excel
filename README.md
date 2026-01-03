@@ -38,17 +38,20 @@ The dashboard transforms raw sales data into actionable business insights throug
 - Month
 - Region
 - Product Category
-  ✔ All slicers are connected to relevant Pivot Tables and charts to ensure consistent filtering.
+
+   ✔ All slicers are connected to relevant Pivot Tables and charts to ensure consistent filtering.
 
 **📊 3. Pivot-Based Visualizations** - The dashboard includes the following charts:
   - Line Chart – Monthly Sales Trend
   - Bar Chart – Sales by Product Category & Subcategory
   - Column Chart – Total Sales by Region
-     Each visualization is designed for clarity, readability, and business relevance.
+
+      Each visualization is designed for clarity, readability, and business relevance.
   
 **🔁 4. VBA Automation – Reset Filters Button** - A Reset Filters button was created using a VBA macro to:
   - Clear all slicer selections
   - Refresh all Pivot Tables  
+  
     This improves usability by allowing users to instantly return to the default dashboard view.
 
  ⚠️ **Note:** Please **enable macros** when opening the Excel file to use this functionality.
