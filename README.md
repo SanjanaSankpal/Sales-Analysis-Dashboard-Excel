@@ -12,6 +12,8 @@ The dashboard transforms raw sales data into actionable business insights throug
 
 ![Sales Performance Dashboard](Dashboard_Preview.png)
 
+---
+
 ## 🎯 Project Objective
 1. Design a business-ready interactive dashboard in Excel
 2. Provide quick and meaningful sales insights using KPIs
